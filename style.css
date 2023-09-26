@@ -2,9 +2,22 @@ h1{
     background-color: #f02020;
     color: aqua;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 h2{
     background-color: #0cde60;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+#btn{
+    color: #0cde60;
+    height: 50px;
+    width: 130px;
+    border: 3px solid red;
+    border-radius: 50px;
+    font-size: large;
+    
 }
